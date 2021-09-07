@@ -9,25 +9,11 @@
 [![Tests](https://github.com/naszam/maker-badges/actions/workflows/tests.yml/badge.svg)](https://github.com/naszam/maker-badges/actions/workflows/tests.yml)
 [![Fuzz](https://github.com/naszam/maker-badges/actions/workflows/fuzz.yml/badge.svg)](https://github.com/naszam/maker-badges/actions/workflows/fuzz.yml)
 
-[![#ETHGlobal HackMoney](https://img.shields.io/badge/ETHGlobal-HackMoney-blueviolet?style=for-the-badge&logo=atom&labelColor=5fc5a6)](https://hackathon.money/)
-
-<img src="Badges.png" width="30%">
-
 # Maker Badges
 
 > Non-transferable Badges for Maker Ecosystem Activity
 
 An incentive protocol to enhance activity on MakerDAO Ecosystem
-
-## Mentors
-
-- Mariano Conti, [@nanexcool](https://github.com/nanexcool)
-- Josh Crites, [@critesjosh](https://github.com/critesjosh)
-- Yannis Stamelakos, [@i-stam](https://github.com/i-stam)
-- Dror Tirosh (OpenGSN), [@drortirosh](https://github.com/drortirosh)
-
-[Demo](https://youtu.be/oZhXjtDnKBM)  
-[HackMoney](https://hack.ethglobal.co/showcase/metabadges-recJS9yRU2zu4rksZ)
 
 ## Sections
 
@@ -242,11 +228,3 @@ Clone this GitHub repository.
 - CDIP [18](https://github.com/makerdao/community/issues/537)
 - CDIP [29](https://github.com/makerdao/community/issues/721)
 - CDIP [38](https://github.com/makerdao/community/issues/1180)
-
-## Authors
-
-Project created by [Nazzareno Massari](https://nazzarenomassari.com) and Scott Herren.  
-MakerDAOx and UI by [Josi](https://twitter.com/0xO0O0)  
-A special thanks for support to [Gonzalo Balabasquer](https://github.com/gbalabasquer).  
-Security Check by [Scott Bigelow](https://github.com/epheph)  
-MakerDAO Badge Illustrations by [Richard Rosa](https://www.artstation.com/artwork/oAJeVq)
